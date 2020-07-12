@@ -1,0 +1,103 @@
+#body
+{
+	background-color: #acac86;
+}
+#header
+{
+	height: 100px;
+	width: 100%;
+	position: fixed;
+	background-color: #2e2e1f;
+	text-align: center;
+	margin-top: -20px;
+}
+
+.home
+{
+	height: 10%;
+	width: 20%;
+	background-color: #acac86;
+	display: inline-block;
+	text-align: center;
+}
+
+.menu
+{
+	height: 10%;
+	width: 20%;
+	background-color: #acac86;
+	display: inline-block;
+	text-align: center;
+}
+
+.contacts
+{
+	height: 10%;
+	width: 20%;
+	background-color: #acac86;
+	display: inline-block;
+	text-align: center;
+}
+
+.events
+{
+	height: 10%;
+	width: 20%;
+	background-color: #acac86;
+	display: inline-block;
+	text-align: center;
+}
+
+.zaglavie
+{
+	height: 100px;
+	width: 100%;
+	background-color: #ffffff;
+	text-align: center;
+	font: normal normal bold 20px raleway,sans-serif
+}
+
+
+
+.gallery
+ {
+ 	margin-top: 200px;
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 300px;
+}
+
+
+.gallery img 
+{
+	margin-top: 100px;
+    width: 300px;
+    height: 300px;
+}
+
+
+.aaa
+{
+	width: 50%;
+	height: 50%;
+}
+.bbb
+{
+	width: 50%;
+	height: 50%;
+}
+.ccc
+{
+	width: 50%;
+	height: 50%;
+}
+
+#logo
+{
+	position: fixed;
+	height: 10%;
+	width: 10%;
+	left: 10px;
+	top: 2px;
+}

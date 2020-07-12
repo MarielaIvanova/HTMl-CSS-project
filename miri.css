@@ -1,0 +1,93 @@
+#body
+{
+	background-color: #ffff99;
+}
+
+#header
+{
+	height: 100px;
+	width: 100%;
+	position: fixed;
+	background-color: #ffff99;
+	text-align: center;
+	margin-top: -20px;
+}
+
+.home
+{
+	height: 10%;
+	width: 20%;
+	background-color: #ffffcc;
+	display: inline-block;
+	text-align: center;
+}
+
+.menu
+{
+	height: 10%;
+	width: 20%;
+	background-color: #ffffcc;
+	display: inline-block;
+	text-align: center;
+}
+
+.contacts
+{
+	height: 10%;
+	width: 20%;
+	background-color: #ffffcc;
+	display: inline-block;
+	text-align: center;
+}
+
+.events
+{
+	height: 10%;
+	width: 20%;
+	background-color: #ffffcc;
+	display: inline-block;
+	text-align: center;
+}
+
+.headera
+{
+	
+	text-align: center;
+	font-family: Georgia;
+}
+.par
+{
+	font: italic 17px Georgia, serif;
+}
+.ab
+{
+	width: 20%;
+	height: 20%;
+
+}
+.abc
+{
+	width: 35.6%;
+	height: 35.6%;
+}
+.abcd
+{
+	width: 40%;
+	height: 40%;
+	
+	
+}
+#mmm
+{
+	display: inline-block;
+	margin-left: auto;
+}
+
+#logo
+{
+	position: fixed;
+	height: 10%;
+	width: 10%;
+	left: 10px;
+	top: 10px;
+}
